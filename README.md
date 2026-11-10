@@ -130,7 +130,7 @@ Motto ···· Human + AI in
 <img src="https://img.shields.io/badge/vLLM-open--source%20LLMs-30A14E?style=flat-square" alt="vLLM" />
 <img src="https://img.shields.io/badge/AMD%20Instinct-GPUs-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD Instinct" />
 <img src="https://img.shields.io/badge/REST-APIs-555?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/HTML markup?style=flat-square" alt="Proficient in HTML markup and web page structuring" />
+<img src="https://img.shields.io/badge/HTML-markup-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Proficient in HTML markup and web page structuring" />
 [add your languages, databases and cloud here]
 
 ### 📫 Reach me
