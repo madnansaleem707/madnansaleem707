@@ -10,7 +10,7 @@ I spent my career inside Technology & Data Analytics and financial Advisory team
 
 **[Finnovus FinSight](<https://finnovus-consulting.web.app/>)**: a finance platform for individuals and businesses.
 Google Play Direct Download
-https://play.google.com/store/apps/details?id=com.finnovusconsulting.app&referrer=utm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dlinkedin_nov2026
+(https://play.google.com/store/apps/details?id=com.finnovusconsulting.app)
 
 - Personal and business financial health tools, with FinSight AI built in
 - Reports, invoices, products and services, referrals and profile management
