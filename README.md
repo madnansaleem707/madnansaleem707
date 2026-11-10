@@ -71,7 +71,7 @@ Motto ···· Human + AI in
 
 - Personal and business financial health tools, with FinSight AI built in
 - Reports, invoices, products and services, referrals and profile management
-- Separate Flutter web app for internal administration
+- Admin Control Protocols for Internal administration
 - Built with Flutter · Live on [Google Play](<link>) and the [App Store](<link>)
 
 <img src="finsight.png" alt="Finnovus FinSight sign-in screen" width="700">
@@ -92,7 +92,7 @@ Motto ···· Human + AI in
 
 <img src="finnovus-five.png" alt="Finnovus Five sign-in screen" width="700">
 
-[Repo or demo link]
+[[Repo or demo link](http://youtube.com/watch?v=DEVv4MmlZTo)]
 
 </details>
 
@@ -106,7 +106,7 @@ Motto ···· Human + AI in
 - Scores each opportunity 0 to 100, with what's changing, what's missing and what a business could build
 - Daily report in a web console and by email, with history for trend tracking · Self-hosted
 
-[→ View repo](https://github.com/madnansaleem707/strategyFlow_COS)
+[→ View repo]([(http://youtube.com/watch?v=DEVv4MmlZTo)]
 
 </details>
 
@@ -130,10 +130,11 @@ Motto ···· Human + AI in
 <img src="https://img.shields.io/badge/vLLM-open--source%20LLMs-30A14E?style=flat-square" alt="vLLM" />
 <img src="https://img.shields.io/badge/AMD%20Instinct-GPUs-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD Instinct" />
 <img src="https://img.shields.io/badge/REST-APIs-555?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/HTML markup?style=flat-square" alt="Proficient in HTML markup and web page structuring" />
 [add your languages, databases and cloud here]
 
 ### 📫 Reach me
 
-<a href="<linkedin url>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="<finnovus url>"><img src="https://img.shields.io/badge/Finnovus-Website-00C2A8?style=for-the-badge" alt="Finnovus website" /></a>
-<a href="mailto:<email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="<[linkedin url](https://www.linkedin.com/in/adnansalat/)>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="<www.finnovusconsulting.com>"><img src="https://img.shields.io/badge/Finnovus-Website-00C2A8?style=for-the-badge" alt="Finnovus website" /></a>
+<a href="mailto:<adnan.salat2@gmail.com>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
