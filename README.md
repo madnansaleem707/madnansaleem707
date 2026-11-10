@@ -2,7 +2,7 @@
 
 Finance professional who writes the code. FCCA (UK) · CFA · Founder & MD of [Finnovus Consulting](<link>), Karachi.
 
-I spent my career inside Technology & Data Analytics and finance teams at Deloitte, Equinix, SS&C Technologies and IBEX. Now I build the tools I wished those teams had: AI agents that work as a finance team, AI that reads the market, automation that takes the busywork out of receivables, and apps that put financial health tools in people's hands.
+I spent my career inside Technology & Data Analytics and financial Advisory teams at Deloitte, Equinix, SS&C Technologies and IBEX. Now I build the tools I wished those teams had: AI agents that work as a finance team, AI that reads the market, automation that takes the busywork out of receivables, and apps that put financial health tools in people's hands.
 
 **Human + AI in ethical finance.**
 
